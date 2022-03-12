@@ -5,10 +5,10 @@ In this project, We'll create visualizations to reveal insights from a Flight De
 
 
 # Dataset
-- [Flight Delays and Cancellations](https://www.kaggle.com/usdot/flight-delays/data).
+- [Flight Delays and Cancellations dataset](https://www.kaggle.com/usdot/flight-delays/data).
 
 This data comes from a Kaggle dataset, it tracks the on-time performance of US domestic flights operated by large air carriers in 2015. You can find the dataset in supporting materials at the bottom of this page.
 
 
 To see my Tableau all Dashboards you will find all here:
-- 📫 How to reach me [<img src="https://financeandbusiness.ucdavis.edu/sites/g/files/dgvnsk4871/files/styles/sf_landscape_16x9/public/images/article/tableau_logo.png?h=c673cd1c&itok=5J3wvhE8" />](https://public.tableau.com/app/profile/abdallah.el.sawy)
+- 📫 How to reach me [<img src="https://www.avonctlibrary.info/wp-content/uploads/2021/08/Tableau-New-Logo-April-12-2016.jpg" />](https://public.tableau.com/app/profile/abdallah.el.sawy)
